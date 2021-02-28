@@ -1,5 +1,5 @@
 {
-    "name": "neurony/laravel-revisions",
+    "name": "rmk147/laravel-revisions",
     "description": "Create multiple revisions of any Eloquent model record along with its underlying relationships",
     "license": "MIT",
     "keywords": [
@@ -21,14 +21,14 @@
         }
     ],
     "require": {
-        "php": "^7.2.5",
-        "illuminate/contracts": "^7.0",
-        "illuminate/support": "^7.0",
-        "illuminate/database": "^7.0"
+        "php": "^7.3.0",
+        "illuminate/contracts": "^8.0",
+        "illuminate/support": "^8.0",
+        "illuminate/database": "^8.0"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0",
-        "phpunit/phpunit": "^8.5"
+        "phpunit/phpunit": "^9.0"
     },
     "autoload": {
         "psr-4": {
